@@ -1,0 +1,15 @@
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/bin/Debug/net8.0/WebSocketServer
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/bin/Debug/net8.0/WebSocketServer.deps.json
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/bin/Debug/net8.0/WebSocketServer.runtimeconfig.json
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/bin/Debug/net8.0/WebSocketServer.dll
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/bin/Debug/net8.0/WebSocketServer.pdb
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.AssemblyInfoInputs.cache
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.AssemblyInfo.cs
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.csproj.CoreCompileInputs.cache
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.sourcelink.json
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.dll
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/refint/WebSocketServer.dll
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.pdb
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/WebSocketServer.genruntimeconfig.cache
+/Users/luisbarajas/Documents/Projects/websocket-scratch/WebSocketServer/obj/Debug/net8.0/ref/WebSocketServer.dll
